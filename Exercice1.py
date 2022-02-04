@@ -13,5 +13,12 @@ def isPowerOf():
         print("Yes !")
     else:
         print("No !")
-        
+
 isPowerOf()
+
+
+## A simpler way
+def is_Power(x, y):
+   while (x%y == 0):
+       x = x / y
+   return x == 1
