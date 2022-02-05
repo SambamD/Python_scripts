@@ -11,4 +11,4 @@ def addDigits(n):
     print(som)
 
 
-addDigits(10)
+addDigits(4536)
