@@ -1,4 +1,4 @@
-# Write a Python program to find x numbers from an array such that the sum of three numbers equal to y
+# Write a Python program to find x numbers from an array such that the sum of x numbers equal to y
 from itertools import combinations
 myArray = []
 def findXnumbers(myArray,x,y):
