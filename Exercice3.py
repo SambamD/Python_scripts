@@ -6,4 +6,4 @@ def findXnumbers(myArray,x,y):
         if(sum(i)==y):
             print(i)
 
-findXnumbers([-1,2,-4,5,-2,3,1],3,1)
+findXnumbers([-1,2,-4,5,-2,3,1],3,0)
